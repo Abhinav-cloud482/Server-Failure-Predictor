@@ -66,7 +66,6 @@ Server-Failure-Predictor/
 ├── server_failure_predictor.py
 ├── requirements.txt
 ├── README.md
-└── images/                 (optional for screenshots)
 ```
 
 ## Dataset
@@ -113,7 +112,7 @@ Failures are determined using a stress-based scoring system that combines:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/server-failure-predictor.git
+git clone https://github.com/Abhinav-cloud482/server-failure-predictor.git
 ```
 
 Move into the project directory:
@@ -188,6 +187,16 @@ Displays:
 
 to help evaluate classification performance.
 
+
+## Screenshots
+
+<img width="467" height="221" alt="output_1" src="https://github.com/user-attachments/assets/cb9ae2d6-0255-41b1-8cd3-abf2816510f1" />
+
+
+
+<img width="1366" height="722" alt="output_2" src="https://github.com/user-attachments/assets/63fdd4e0-3209-4d57-8c1a-11019a17a057" />
+
+
 ## Workflow
 
 1. Generate synthetic server telemetry.
@@ -247,6 +256,6 @@ This project is open source and available under the **MIT License**.
 
 ## Author
 
-**Your Name**
+**Abhinav Dixit**
 
-If you found this project useful, consider giving it a star on GitHub.
+GitHub: [Abhinav Dixit](https://github.com/Abhinav-cloud482)
